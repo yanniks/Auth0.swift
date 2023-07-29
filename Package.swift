@@ -36,6 +36,7 @@ let package = Package(
             ],
             path: "Auth0Tests",
             exclude: ["Info.plist", "Auth0.plist"],
-            swiftSettings: swiftSettings)
+            swiftSettings: swiftSettings
+        )
     ]
 )
